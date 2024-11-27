@@ -1,0 +1,270 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 📊 Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+jupyter_execute/
+
+# 🔒 Environment & Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+*.env.local
+.envrc
+
+# 🔐 Credentials & Secrets
+*.pem
+*.key
+*.crt
+*.cer
+credentials/
+secrets/
+*_credentials.json
+*_secrets.json
+*.secret
+.gcloud/
+.config/gcloud/
+.aws/
+.ssh/
+
+# 📝 IDE & Editor Files
+# VSCode
+.vscode/
+.settings/
+*.code-workspace
+# PyCharm & IntelliJ
+.idea/
+*.iml
+*.iws
+.idea_modules/
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+# Vim
+*.swp
+*.swo
+*~
+# Emacs
+\#*\#
+.\#*
+
+# 📈 Data Science & Analytics
+# Data files
+*.csv
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.joblib
+data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# Models & Training
+models/
+*.model
+*.pt
+*.pth
+*.weights
+*.pb
+*.onnx
+checkpoints/
+runs/
+logs/
+tensorboard/
+
+# 📊 Visualizations & Reports
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.pdf
+figures/
+plots/
+reports/
+presentations/
+
+# 🐋 Docker
+.docker/
+docker-compose.override.yml
+*.dockerignore
+
+# 🐧 Debian & Linux Specific
+*.deb
+*.ddeb
+*.udeb
+*.changes
+*.build
+*.log
+
+# 📊 Temporary & Cache Files
+.cache/
+tmp/
+temp/
+.temp/
+.tmp/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# 📦 Dependencies & Package Management
+poetry.lock
+Pipfile.lock
+requirements.txt.lock
+.pdm.toml
+pdm.lock
+
+# 🧪 Testing
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.coveralls.yml
+
+# 📚 Documentation
+docs/_build/
+docs/api/
+site/
+mkdocs/
+.mkdocs/
+*.rst
+!README.rst
+
+# 🔧 Build & Compilation
+*.o
+*.ko
+*.obj
+*.elf
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+*.app
+
+# 📈 Profiling & Performance
+*.prof
+*.lprof
+*.stats
+profile_results/
+benchmarks/results/
+
+# 🗑️ Misc
+.bak/
+.old/
+.archive/
+archive/
+backup/
+.backup/
+*.bak
+*.swp
+*.swo
+*~
+.nfs*
+.fuse_hidden*
+
+# 🚫 Project Specific (uncomment/modify as needed)
+# /path/to/specific/file
+# specific_file_pattern.*
+# specific_directory/
+
+
+# Secrets and Credentials
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+chrome_manager/config/credentials/*
+!chrome_manager/config/credentials/.gitkeep
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
